@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="achievement_one">CgkIlIrV0NgYEAIQAw</string>
+        <string name="achievement_two">CgkIlIrV0NgYEAIQBA</string>
+        <string name="achievement_three">CgkIlIrV0NgYEAIQAQ</string>
+        <string name="achievement_four">CgkIlIrV0NgYEAIQAg</string>
+        <string name="achievement_five">CgkIlIrV0NgYEAIQBQ</string>
+        <string name="leaderboard_highest">CgkIlIrV0NgYEAIQAA</string>
+        <!--<string name="leaderboard_highest">CgkIpsC36qwWEAIQAA</string> -->
+</resources>
